@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Kenia&display=swap');
+
+h1{
+    color: red;
+    font-family: "Kenia", sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2{
+    color: orange;
+    font-family:"Kenia", sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    text-decoration: underline;
+    text-shadow: 0cm 0cm 2px #000000;
+}
+
+p{
+    color: grey;
+    font-family: 'Times New Roman',;
+    font-size: 12px;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+p section{
+    color: black;
+}
+
+strong{
+    color: red;
+    font-size: 900;
+}
+
+.impar{
+    background-color: green;
+}
+
+.par{
+    background-color: lightgreen;
+}
+
+#Contacto{
+    color: blue;
+    font-size: medium;
+    font-family: Arial, Kenia, sans-serif;
+}
+
+#Enlaces{
+    color: purple;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#Formulario{
+    color: brown;
+    font-size: 15px;
+    font-family: 'Kenia', 'Arial', monospace;
+}
